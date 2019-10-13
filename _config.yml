@@ -29,23 +29,23 @@ projects:
       kataras/iris
       kataras/neffos
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: makismaropoulos
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: makis_maropoulos
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: gerasimos-maropoulos
   # mastodon: your_username
-  # medium: your_username
+  medium: kataras
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+  twitter: MakisMaropoulos
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
-  # youtube: your_username
+  youtube: MakisMaropoulos
 
 topics:
   - name: CSS
